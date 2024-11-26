@@ -68,3 +68,4 @@ My expertise spans **full-stack development**, **microservices architecture**, *
 - **Email:** [mauryaprabhat2@gmail.com](mailto:mauryaprabhat2@gmail.com)  
 - **LinkedIn:** [Prabhat Maurya](https://www.linkedin.com/in/prabhat-maurya/)  
 - **GitHub:** [mauryaprabhat](https://github.com/mauryaprabhat)  
+- **Stack Overflow:** [Prabhat Maurya](https://stackoverflow.com/users/7162038/prabhat-maurya) 
